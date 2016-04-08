@@ -19,7 +19,7 @@ Reaplce With Your hosted json file <EXAMPLE>
 }
 
 Reaplce With Your hosted json file url
-let url = NSURL(string: "<PLACE-YOUR-HOSTED-JSON-FILE-HERE>")
+let url = NSURL(string: "[PLACE-YOUR-HOSTED-JSON-FILE-HERE]")
 
 
 Reaplce With Your Apple Store URL and App)ID
