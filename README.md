@@ -23,5 +23,5 @@ let url = NSURL(string: "[PLACE-YOUR-HOSTED-JSON-FILE-HERE]")
 
 
 ##Reaplce With Your Apple Store URL and App)ID
-Link = "itms-apps://itunes.apple.com/hk/app/[PLACE-YOUR-APP_ID-HERE]"
+Link = "itms-apps://itunes.apple.com/app/[PLACE-YOUR-APP_ID-HERE]"
 
