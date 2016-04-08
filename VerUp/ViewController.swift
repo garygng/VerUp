@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         // Get App Current Version form Web Hosting Server and compare app version for does app version out-dated
         var onlineAppVersion = "0.00"
         
-        let url = NSURL(string: "http://minka.comlu.com/app/AppVerKeeper.json")
+        let url = NSURL(string: "https://raw.githubusercontent.com/garygng/VerUp/master/VerUp/AppVerKeeper.json")
         let data = try? NSData(contentsOfURL: url!, options: NSDataReadingOptions.DataReadingUncached)
         print(data)
         if data != nil {
@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         }
         
         if onlineAppVersion != "0.00" {
-            // let onlineAppVersion = "1.51" // Test data for app store new online verion release testing 
+            // let onlineAppVersion = "1.51" // Test data for app store new online verion release testing
             
             // Current User App verion on there local iphone
             let userAppVersion = NSBundle.mainBundle().objectForInfoDictionaryKey("CFBundleShortVersionString") as! String

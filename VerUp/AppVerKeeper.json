@@ -1,12 +1,6 @@
 {
-  "AppInfo": {
-    "AppDeatil1" : {
+    "AppInfo": {
         "AppName": "mypublicip",
         "Version": "1.51"
-    },
-    "AppDeatil2" : {
-        "AppName": "mylocation",
-        "Version": "2.01"
     }
-  }
 }
