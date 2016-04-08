@@ -12,6 +12,7 @@
 		92CB253D1CB851A300E2C55B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92CB253B1CB851A300E2C55B /* Main.storyboard */; };
 		92CB253F1CB851A300E2C55B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92CB253E1CB851A300E2C55B /* Assets.xcassets */; };
 		92CB25421CB851A300E2C55B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92CB25401CB851A300E2C55B /* LaunchScreen.storyboard */; };
+		92CB254E1CB85D4600E2C55B /* background_main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92CB254D1CB85D4600E2C55B /* background_main.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		92CB253E1CB851A300E2C55B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92CB25411CB851A300E2C55B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92CB25431CB851A300E2C55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92CB254D1CB85D4600E2C55B /* background_main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_main.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		92CB25361CB851A300E2C55B /* VerUp */ = {
 			isa = PBXGroup;
 			children = (
+				92CB254D1CB85D4600E2C55B /* background_main.jpg */,
 				92CB25371CB851A300E2C55B /* AppDelegate.swift */,
 				92CB25391CB851A300E2C55B /* ViewController.swift */,
 				92CB253B1CB851A300E2C55B /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				92CB25421CB851A300E2C55B /* LaunchScreen.storyboard in Resources */,
 				92CB253F1CB851A300E2C55B /* Assets.xcassets in Resources */,
+				92CB254E1CB85D4600E2C55B /* background_main.jpg in Resources */,
 				92CB253D1CB851A300E2C55B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +290,7 @@
 				92CB25481CB851A300E2C55B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
