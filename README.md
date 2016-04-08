@@ -34,5 +34,5 @@ let url = NSURL(string: "https://gist.githubusercontent.com/garygng/428effb96349
 //*********************************************
 Link = "itms-apps://itunes.apple.com/hk/app/**<PLACE-YOUR-APP_ID-HERE>**"
 
-EXAMPLE:
+EXAMPLE: 
 Link = "itms-apps://itunes.apple.com/hk/app/my-public-ip/id1093560803"
