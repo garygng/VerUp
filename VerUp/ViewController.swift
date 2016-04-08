@@ -21,7 +21,9 @@ class ViewController: UIViewController {
     func checkForAppVerupdate(){
         // Get App Current Version form Web Hosting Server and compare app version for does app version out-dated
         var onlineAppVersion = "0.00"
-        
+        //*********************************************
+        // Reaplce With Your hosted JSON URL
+        //*********************************************
         let url = NSURL(string: "https://gist.githubusercontent.com/garygng/428effb96349e6b661eb2440dcb71e1c/raw/f35c8bf1c2329de1f6bd5e99104190faff3fb17f/AppVerKeeper.json")
         let data = try? NSData(contentsOfURL: url!, options: NSDataReadingOptions.DataReadingUncached)
         print(data)
