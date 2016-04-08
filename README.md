@@ -13,8 +13,8 @@ Notify users when a new version of your iOS app is available. In Swift
 ##Reaplce With Your hosted json file <EXAMPLE>
 {
   "AppInfo": {
-        "AppName": "mypublicip",
-        "Version": "1.51"
+        "AppName": "[PLACE_YOUR-APP-NAME_HERE]",
+        "Version": "[PLACE_YOUR_RELEASED_VERSION_NO_HERE]"
     }
 }
 
