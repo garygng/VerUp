@@ -25,13 +25,8 @@ Json File
 //*********************************************
 let url = NSURL(string: "**<PLACE-YOUR-HOSTED-JSON-FILE-HERE>**")
 
-EXAMPLE:
-let url = NSURL(string: "https://gist.githubusercontent.com/garygng/428effb96349e6b661eb2440dcb71e1c/raw/f35c8bf1c2329de1f6bd5e99104190faff3fb17f/AppVerKeeper.json")
-
 //*********************************************
 // Reaplce With Your Apple Store URL and App)ID
 //*********************************************
 Link = "itms-apps://itunes.apple.com/hk/app/**<PLACE-YOUR-APP_ID-HERE>**"
 
-EXAMPLE: 
-Link = "itms-apps://itunes.apple.com/hk/app/my-public-ip/id1093560803"
