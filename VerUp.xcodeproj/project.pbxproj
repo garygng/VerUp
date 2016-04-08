@@ -15,6 +15,7 @@
 		92CB254E1CB85D4600E2C55B /* background_main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92CB254D1CB85D4600E2C55B /* background_main.jpg */; };
 		92CB25521CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png in Resources */ = {isa = PBXBuildFile; fileRef = 92CB25511CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png */; };
 		92CB25591CB8635300E2C55B /* AppVerKeeper.json in Resources */ = {isa = PBXBuildFile; fileRef = 92CB25581CB8635300E2C55B /* AppVerKeeper.json */; };
+		92CB255B1CB8652000E2C55B /* Simulator Screen Shot Apr 9, 2016, 06.15.34.png in Resources */ = {isa = PBXBuildFile; fileRef = 92CB255A1CB8652000E2C55B /* Simulator Screen Shot Apr 9, 2016, 06.15.34.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		92CB254D1CB85D4600E2C55B /* background_main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_main.jpg; sourceTree = "<group>"; };
 		92CB25511CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-04-09 at 05.52.21.png"; sourceTree = "<group>"; };
 		92CB25581CB8635300E2C55B /* AppVerKeeper.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AppVerKeeper.json; sourceTree = "<group>"; };
+		92CB255A1CB8652000E2C55B /* Simulator Screen Shot Apr 9, 2016, 06.15.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Apr 9, 2016, 06.15.34.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				92CB25581CB8635300E2C55B /* AppVerKeeper.json */,
 				92CB25511CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png */,
+				92CB255A1CB8652000E2C55B /* Simulator Screen Shot Apr 9, 2016, 06.15.34.png */,
 			);
 			name = ReadMe;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				92CB25591CB8635300E2C55B /* AppVerKeeper.json in Resources */,
 				92CB25421CB851A300E2C55B /* LaunchScreen.storyboard in Resources */,
 				92CB253F1CB851A300E2C55B /* Assets.xcassets in Resources */,
+				92CB255B1CB8652000E2C55B /* Simulator Screen Shot Apr 9, 2016, 06.15.34.png in Resources */,
 				92CB254E1CB85D4600E2C55B /* background_main.jpg in Resources */,
 				92CB253D1CB851A300E2C55B /* Main.storyboard in Resources */,
 			);
