@@ -13,6 +13,8 @@
 		92CB253F1CB851A300E2C55B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92CB253E1CB851A300E2C55B /* Assets.xcassets */; };
 		92CB25421CB851A300E2C55B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92CB25401CB851A300E2C55B /* LaunchScreen.storyboard */; };
 		92CB254E1CB85D4600E2C55B /* background_main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92CB254D1CB85D4600E2C55B /* background_main.jpg */; };
+		92CB25521CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png in Resources */ = {isa = PBXBuildFile; fileRef = 92CB25511CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png */; };
+		92CB25551CB8606400E2C55B /* AppVerKeeper.json in Resources */ = {isa = PBXBuildFile; fileRef = 92CB25541CB8606400E2C55B /* AppVerKeeper.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		92CB25411CB851A300E2C55B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92CB25431CB851A300E2C55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92CB254D1CB85D4600E2C55B /* background_main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_main.jpg; sourceTree = "<group>"; };
+		92CB25511CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-04-09 at 05.52.21.png"; sourceTree = "<group>"; };
+		92CB25541CB8606400E2C55B /* AppVerKeeper.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AppVerKeeper.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,7 @@
 		92CB25361CB851A300E2C55B /* VerUp */ = {
 			isa = PBXGroup;
 			children = (
+				92CB25531CB85FBB00E2C55B /* ReadMe */,
 				92CB254D1CB85D4600E2C55B /* background_main.jpg */,
 				92CB25371CB851A300E2C55B /* AppDelegate.swift */,
 				92CB25391CB851A300E2C55B /* ViewController.swift */,
@@ -65,6 +70,15 @@
 				92CB25431CB851A300E2C55B /* Info.plist */,
 			);
 			path = VerUp;
+			sourceTree = "<group>";
+		};
+		92CB25531CB85FBB00E2C55B /* ReadMe */ = {
+			isa = PBXGroup;
+			children = (
+				92CB25541CB8606400E2C55B /* AppVerKeeper.json */,
+				92CB25511CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png */,
+			);
+			name = ReadMe;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +139,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92CB25521CB85FAE00E2C55B /* Screen Shot 2016-04-09 at 05.52.21.png in Resources */,
+				92CB25551CB8606400E2C55B /* AppVerKeeper.json in Resources */,
 				92CB25421CB851A300E2C55B /* LaunchScreen.storyboard in Resources */,
 				92CB253F1CB851A300E2C55B /* Assets.xcassets in Resources */,
 				92CB254E1CB85D4600E2C55B /* background_main.jpg in Resources */,
