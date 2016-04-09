@@ -4,7 +4,7 @@
 //
 //  Created by Gary.nG on 4/9/16.
 //  Copyright © 2016 Gary.nG. All rights reserved.
-//
+//  http://minka.ml
 
 import UIKit
 
